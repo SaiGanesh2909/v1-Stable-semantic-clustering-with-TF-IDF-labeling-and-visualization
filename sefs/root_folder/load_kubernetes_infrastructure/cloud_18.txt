@@ -1,0 +1,1 @@
+Kubernetes cluster 18 orchestrates Docker containers across distributed virtual machines with autoscaling and load balancing infrastructure. 

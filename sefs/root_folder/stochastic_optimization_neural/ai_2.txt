@@ -1,0 +1,1 @@
+Transformer attention mechanism 2 improves stochastic gradient descent optimization in neural network backpropagation training. 
