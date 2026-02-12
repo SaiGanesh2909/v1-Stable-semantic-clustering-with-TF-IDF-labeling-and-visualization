@@ -7,6 +7,8 @@ python sefs/visualize.py
 #To Run Project 
 python sefs/main.py
 
+#To install dependencies 
+pip install -r requirements.txt
 
 -----------------------------------------------------------------
 #Move to root_folder
