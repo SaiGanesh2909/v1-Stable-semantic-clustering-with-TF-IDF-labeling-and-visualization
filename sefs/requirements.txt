@@ -1,10 +1,1 @@
-numpy
-scipy
-scikit-learn
-sentence-transformers
-torch
-transformers
-tqdm
-matplotlib
-pandas
-hdbscan
+
