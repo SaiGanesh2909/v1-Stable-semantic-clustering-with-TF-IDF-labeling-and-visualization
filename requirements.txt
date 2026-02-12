@@ -10,3 +10,4 @@ pandas
 hdbscan
 faiss-cpu
 watchdog
+pyvis
